@@ -46,6 +46,8 @@ export default function Home() {
             to="/quiz"
             className="bg-brand-orange hover:bg-orange-600 text-white font-bold px-8 py-3 rounded-full transition"
           >
+
+            
             Check My Status →
           </Link>
           <Link
