@@ -78,6 +78,7 @@ export default function LearnDifference() {
           <strong>NPCI Aadhaar Mapper</strong> — this is a separate step that
           most students miss. Without this, no scholarship or subsidy will reach
           your account.
+          
         </p>
       </div>
     </div>
